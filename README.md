@@ -1,29 +1,41 @@
-# 🏆 L’Oréal Brandstorm 2026: A Business Analysis Case Study
+# 🏆 L’Oréal Brandstorm 2026: Business Analysis Case Study
+
+![Brandstorm Title](./Brandstorm_Title.png)
+
+[![View PDF](https://img.shields.io/badge/View-Full_Case_Study-blue?style=for-the-badge&logo=adobeacrobatreader)](./Case-Study-Soha-Elansary.pdf)
 
 ## 📌 Project Overview
-This project was developed for the **L’Oréal Brandstorm 2026** global competition, focusing on the future of the Luxe fragrance division. I acted as a **Business Analyst**, bridging the gap between technical feasibility (AI/Neuroscience) and human-centric market strategy.
+I participated in the L’Oréal Brandstorm 2026 global competition as a **Business Analyst**[cite: 91, 95]. [cite_start]My goal was to take a complex business brief and find a data-backed way to innovate for the L'Oréal Luxe fragrance division[cite: 43, 81]. 
 
-[View the Full Case Study PDF](./Case-Study-Soha-Elansary.pdf)
+## 📊 Simple Data Insights
+We didn't just guess what young shoppers wanted; we looked at the numbers[cite: 96]:
+* **64%** of young people are willing to pay more for scents that boost their mood[cite: 98].
+* **83%** are open to trying AI-driven fragrance recommendations[cite: 101, 102].
+* **45%** of luxury purchases are now influenced by social media and peer reviews[cite: 103, 104].
 
-## 📊 Key Data Insights
-Our strategy was built on data-backed research into Gen Z and Millennial consumer behavior:
-* [cite_start]**64%** of young consumers are willing to pay more for mood-boosting scents[cite: 197].
-* [cite_start]**83%** are open to AI-driven fragrance recommendations[cite: 200].
-* [cite_start]**45%** of luxury purchases are now influenced by digital content[cite: 203].
+![Brandstorm Insights](./Brandstorm_Insights.png)
 
-## 👥 Strategic Market Segmentation
-I developed three distinct "Digital Scent Tribes" to align our product vision with specific consumer needs:
-1. [cite_start]**Aria (22, NYC):** The "Mood Curator" looking for playlist-driven scent vibes[cite: 205].
-2. [cite_start]**Lena (30, London):** The "Conscious Luxurist" prioritizing ethical and transparent luxury[cite: 208].
-3. [cite_start]**Jade (28, Seoul):** The "Social Discoverer" driven by peer reviews and limited drops[cite: 212].
+## 👥 The People We Designed For
+To make our strategy real, I created three customer "personas" based on global trends[cite: 105]:
+* **Aria (22, NYC):** A digital native who picks scents based on her "mood boards" and playlist energy[cite: 106, 107].
+* **Lena (30, London):** A professional who values sustainability, clean ingredients, and ethical luxury[cite: 109, 111].
+* **Jade (28, Seoul):** A social trendsetter who discovers new products through TikTok and viral collaborations[cite: 113, 115].
 
-## 🧠 The "Neuro-Tech" Solution
-We proposed an **AI-powered recommendation engine** that maps biometric signals and mood data to fragrance molecular profiles. [cite_start]By using ingredients like **Bergamot** (proven to reduce cortisol by 23%) and **Lavender** (improving sleep quality by 45%), we created a functional luxury experience[cite: 221, 224, 225].
+![Brandstorm Personas](./Brandstorm_Personas.png)
 
-## 🛠️ Skills Demonstrated
-* [cite_start]**Requirement Synthesis:** Translating a complex global brief into a feasible business model[cite: 228].
-* [cite_start]**Data-Driven Strategy:** Using quantitative research to justify a price premium[cite: 197].
-* [cite_start]**Strategic Empathy:** Building human-centric personas to drive product design[cite: 233].
+## 🧠 The "Neuro-Tech" Concept
+We proposed a smart recommendation engine that uses data to suggest perfumes that actually help people feel better[cite: 117, 124]:
+* **Bergamot:** Proven to reduce stress levels by up to 23%[cite: 122].
+* **Lavender:** Clinically shown to improve sleep quality by 45%[cite: 126].
+
+![Brandstorm Tech & Feasibility](./Brandstorm_Tech&Feasibility.png)
+
+## 🛠️ The Strategic Takeaway
+This project shows how I combine **Technical Rigor** (from my Computer Science background) with **Strategic Empathy**[cite: 133, 134]. 
+
+> "Data tells you what happened; Empathy tells you what to do next." [cite: 137]
+
+![Brandstorm Takeaway](./Brandstorm_Takeway.png)
 
 ---
-*Developed by Soha Elansary | Computer Science & Business Analyst*
+*Developed by Soha Elansary | Computer Science & Business Analyst* [cite: 138]
