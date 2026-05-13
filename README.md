@@ -13,9 +13,9 @@ Our strategy was built on data-backed research into Gen Z and Millennial consume
 
 ## 👥 Strategic Market Segmentation
 I developed three distinct "Digital Scent Tribes" to align our product vision with specific consumer needs:
-1. [cite_start]**Aria (22, NYC):** The "Mood Curator" looking for playlist-driven scent vibes[cite: 205].
-2. [cite_start]**Lena (30, London):** The "Conscious Luxurist" prioritizing ethical and transparent luxury[cite: 208].
-3. [cite_start]**Jade (28, Seoul):** The "Social Discoverer" driven by peer reviews and limited drops[cite: 212].
+1. **Aria (22, NYC):** The "Mood Curator" looking for playlist-driven scent vibes[cite: 205].
+2. **Lena (30, London):** The "Conscious Luxurist" prioritizing ethical and transparent luxury[cite: 208].
+3. **Jade (28, Seoul):** The "Social Discoverer" driven by peer reviews and limited drops[cite: 212].
 
 ## 🧠 The "Neuro-Tech" Solution
 We proposed an **AI-powered recommendation engine** that maps biometric signals and mood data to fragrance molecular profiles. [cite_start]By using ingredients like **Bergamot** (proven to reduce cortisol by 23%) and **Lavender** (improving sleep quality by 45%), we created a functional luxury experience[cite: 221, 224, 225].
